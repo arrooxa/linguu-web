@@ -1,0 +1,52 @@
+:root {
+  /* Primary */
+  --primary: #f97316;
+  --primary-dark: #c2410c;
+  --primary-light: #fed7aa;
+
+  /* Accent */
+  --accent: #fbbf24;
+  --accent-dark: #92400e;
+  --accent-light: #fef9c3;
+
+  /* Secondary */
+  --secondary: #a78bfa;
+  --secondary-dark: #5b21b6;
+  --secondary-light: #ede9fe;
+
+  /* Success */
+  --success: #34d399;
+  --success-dark: #065f46;
+  --success-light: #dcfce7;
+
+  /* Error */
+  --error: #ef4444;
+  --error-dark: #991b1b;
+  --error-light: #fee2e2;
+
+  /* Pink */
+  --pink: #f472b6;
+  --pink-dark: #9d174d;
+  --pink-light: #fce7f3;
+
+  /* Neutrals */
+  --white: #ffffff;
+  --surface: #f8fafc;
+  --border: #e5e7eb;
+  --text: #1c1917;
+  --text-secondary: #6b7280;
+  --text-muted: #9ca3af;
+  --text-on-primary: #ffffff;
+
+  /* Background gradient */
+  --bg-top: #FFF9C4;
+  --bg-mid: #FFE0B2;
+  --bg-bot: #FFDDB3;
+
+  /* Floating shapes */
+  --float-a: rgba(251, 191, 36, 0.38);
+  --float-b: rgba(249, 115, 22, 0.28);
+  --float-c: rgba(52, 211, 153, 0.32);
+  --float-d: rgba(244, 114, 182, 0.30);
+  --float-e: rgba(167, 139, 250, 0.25);
+}
