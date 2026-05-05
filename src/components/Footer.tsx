@@ -17,8 +17,8 @@ export default function Footer() {
 
         <div className="flex gap-5">
           {[
-            { label: "Privacidade", href: "#" },
-            { label: "Termos", href: "#" },
+            { label: "Privacidade", href: "/privacy" },
+            { label: "Termos", href: "/terms" },
             { label: "contato@linguu.app", href: "mailto:contato@linguu.app" },
           ].map((link) => (
             <a
