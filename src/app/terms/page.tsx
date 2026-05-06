@@ -165,10 +165,10 @@ export default function TermsPage() {
         <Section title="11. Contato">
           <p>
             <a
-              href="mailto:contato@linguu.app"
+              href="mailto:contato@linguu.com.br"
               style={{ color: "var(--primary)", fontWeight: 700 }}
             >
-              contato@linguu.app
+              contato@linguu.com.br
             </a>
           </p>
         </Section>

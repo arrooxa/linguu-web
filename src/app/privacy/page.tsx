@@ -44,10 +44,10 @@ export default function PrivacyPage() {
             O serviço é oferecido pelo Linguu. Para questões sobre privacidade,
             contate{" "}
             <a
-              href="mailto:contato@linguu.app"
+              href="mailto:contato@linguu.com.br"
               style={{ color: "var(--primary)", fontWeight: 700 }}
             >
-              contato@linguu.app
+              contato@linguu.com.br
             </a>
             .
           </p>
@@ -178,10 +178,10 @@ export default function PrivacyPage() {
             Para solicitações adicionais (acesso, retificação, portabilidade,
             limitação de tratamento) previstas pela LGPD, escreva para{" "}
             <a
-              href="mailto:contato@linguu.app"
+              href="mailto:contato@linguu.com.br"
               style={{ color: "var(--primary)", fontWeight: 700 }}
             >
-              contato@linguu.app
+              contato@linguu.com.br
             </a>
             .
           </p>
@@ -215,10 +215,10 @@ export default function PrivacyPage() {
         <Section title="10. Contato">
           <p>
             <a
-              href="mailto:contato@linguu.app"
+              href="mailto:contato@linguu.com.br"
               style={{ color: "var(--primary)", fontWeight: 700 }}
             >
-              contato@linguu.app
+              contato@linguu.com.br
             </a>
           </p>
         </Section>

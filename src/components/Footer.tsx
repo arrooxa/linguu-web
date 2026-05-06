@@ -19,7 +19,7 @@ export default function Footer() {
           {[
             { label: "Privacidade", href: "/privacy" },
             { label: "Termos", href: "/terms" },
-            { label: "contato@linguu.app", href: "mailto:contato@linguu.app" },
+            { label: "contato@linguu.com.br", href: "mailto:contato@linguu.com.br" },
           ].map((link) => (
             <a
               key={link.label}
